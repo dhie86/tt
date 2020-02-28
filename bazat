@@ -92,10 +92,10 @@ https://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist_w2006457426_b1344100_slen
 https://cdnkbl2.useetv.com/joss/17/foxsport3/chunklist_w1688542010_b1344100_sleng.m3u8?enc=rUS83DtJ8d-zsMwqA6TXMg&exp=1582915389
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT", MNC Sports 1
-https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT",MNC Sports 2
-https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE TV SPORT",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -145,23 +145,23 @@ http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIE",Hits Movies
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",MY: FOX MOVIES HD
-http://m3ulink.com:7899/mata66/123456/55457
+
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX FAMILY MOVIES HD
-http://m3ulink.com:7899/mata66/123456/55455
+
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX ACTION MOVIES HD
-http://m3ulink.com:7899/mata66/123456/55454
+
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX TV HD
-http://m3ulink.com:7899/mata66/123456/55458
+
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FX CINEMA HD
-http://m3ulink.com:7899/mata66/123456/55459
+
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX LIFE HD
-http://m3ulink.com:7899/mata66/123456/55456
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",TVN HD
-http://m3ulink.com:7899/mata66/123456/55476
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",TVN MOVIES
-http://m3ulink.com:7899/mata66/123456/55477
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="MOVIE",WARNER TV HD
-http://m3ulink.com:7899/mata66/123456/55478
+
 
 
 
@@ -488,16 +488,16 @@ http://skdn.redi-vo.com/iptv/ch1285?code=1701273726237058&key=47444
 
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Astro sport",ASTRO SUPERSPORTS 1
-http://m3ulink.com:7899/mata66/123456/55433
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Astro sport",ASTRO SUPERSPORTS 2
-http://m3ulink.com:7899/mata66/123456/55434
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Astro sport",ASTRO SUPERSPORTS 3
-http://m3ulink.com:7899/mata66/123456/55435
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Astro sport",ASTRO SUPERSPORTS 4
-http://m3ulink.com:7899/mata66/123456/55436
+
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Astro sport",
 
