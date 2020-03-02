@@ -2,16 +2,28 @@
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV 
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LOKAL", MNCTV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL", GLOBAL TV
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="LOKAL", GLOBAL TV HD
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 
 #EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="LOKAL", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL", INDOSIAR HD
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cWmDMO2.png" group-title="LOKAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV
+
 
 #EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="LOKAL", SCTV HD
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
@@ -26,7 +38,8 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w140890010_b384000_sle
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
+https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
@@ -65,49 +78,59 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CzbGdnF.png" group-title="LOKAL", RTV
 
 ########## USE TV ###########
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee sport
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",Usee Sport 2
-https://edgejt6.useetv.com/joss/15/useesport/chunklist_w434539509_b1344100_sleng.m3u8?enc=FJ2caUuRZ-A4-4Qn4e_54A&exp=1582915266
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE TV SPORT",Champions TV 1
-https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w733563123_b1344100_sleng.m3u8?enc=xGZW83uuorE5a2ustx08fA&exp=1582915284
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="USE TV SPORT",Champions TV 2
-https://cdnbal1.useetv.com/joss/194/champion2/chunklist_w523777255_b1344100_sleng.m3u8?enc=T-XXAIu-KwG7eVIQ34WlrA&exp=1582915308
-
-#EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
-https://cdnmdc1.useetv.com/joss/17/bein1/chunklist_w2041361536_b1344100_sleng.m3u8?enc=5sTFMY6dSAxSvSQNIYv3sA&exp=1582915224
-
-#EXTINF:0 group-title="USE TV SPORT"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
-https://cdnbal1.useetv.com/joss/17/bein2/chunklist_w980699268_b1344100_sleng.m3u8?enc=V8Ox9-KbG-uqfMKGqDV0pQ&exp=1582915236
-
-#EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
-https://cdnbdsa1.useetv.com/joss/17/foxsport2/chunklist_w716311616_b1344100_sleng.m3u8?enc=mOScJtwNwJvJjwBjgTWe7A&exp=1582915349
-
-#EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
-https://cdnmdc2.useetv.com/joss/17/foxsport1/chunklist_w2006457426_b1344100_sleng.m3u8?enc=ieyf8_Y1fg8t4W0Dc4BidQ&exp=1582915375
-
-#EXTINF:-1 group-title="USE TV SPORT" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
-https://cdnkbl2.useetv.com/joss/17/foxsport3/chunklist_w1688542010_b1344100_sleng.m3u8?enc=rUS83DtJ8d-zsMwqA6TXMg&exp=1582915389
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT", MNC Sports 1
-https://cdn-livetv2.metube.id/hls/mncsport_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="USE TV SPORT",MNC Sports 2
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w219662607_b1344100_sleng.m3u8?enc=Be5iSQ9RRc0qlWA9jratdA&exp=1583160244
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="USE TV SPORT",TVRI SPORT
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",USEE PHOTO
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",Usee sport 2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1144750341_b1344100_sleng.m3u8?enc=UJJGmq5aH5gWeD6RvssYgw&exp=1583160301
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LIGA 1 & UCL",INDOSIAR LIGA 1 
+https://etslive-2-vidio-com.akamaized.net/exp=1583154887~acl=/hls-b/ingest_205_*/*~hmac=6f15f52940452e5ead8916bf35eea4f2c7a575d9a5e1a811723fcc159341b4f5/hls-b/ingest_205_720p/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",USEE PRIME
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",INDOSIAR
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",O CHANEL
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",ANTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 1
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="LIGA 1 & UCL",Champions TV 2
+
+
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 1
+
+
+#EXTINF:0 group-title="LIGA 1 & UCL"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",bein 2
+
+
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox Sports 1
+
+
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 2
+
+
+#EXTINF:-1 group-title="LIGA 1 & UCL" tvg-logo="https://www.mawintv.com/wp-content/uploads/2019/06/hd-foxsports1-1.png",Fox sports 3
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LIGA 1 & UCL", MNC Sports 1
+
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="LIGA 1 & UCL",MNC Sports 2
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iEizg35.png" group-title="LIGA 1 & UCL",TVRI SPORT
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",USEE PHOTO
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",USEE PRIME
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",INDOSIAR
+
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="LIGA 1 & UCL",ANTV
 
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png?v=2.0.0.13" group-title="USE TV SPORT",TRANS 7
@@ -143,25 +166,27 @@ http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIE",CELESTIAL MOVIES HD
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIE",Hits Movies
-#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",MY: FOX MOVIES HD
-
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HITS.id.png" group-title="MOVIE",MOMENTUM
+https://token-geo-id-media-vidio-com.akamaized.net/exp=1583006058~acl=/uploads/1638822/*~hmac=b677326fd0b997e9f67df16f1ee353611f8d80273e14dd800e0d45895abc46aa/uploads/1638822/ets-momentum-1-d758-b8000.mp4.m3u8
+#EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE", VEHICLE19
+https://token-geo-id-media-vidio-com.akamaized.net/exp=1583006333~acl=/uploads/1569851/*~hmac=bb0f07ec46587fbfea3ea9bd49469572fe69ed21d75ac5f869fa615d8b954f48/uploads/1569851/ets-vehicle-2019-1-f2a2-b600.mp4.m3u8
+https://media-vidio-com.akamaized.net/uploads/subtitle/file/1615/38859c-ca5841-6d5e62-e7d07f-vehicle_19.vtt
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX FAMILY MOVIES HD
-
+http://m3ulink.com:7899/mata66/123456/55455
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX ACTION MOVIES HD
-
+http://m3ulink.com:7899/mata66/123456/55454
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX TV HD
-
+http://m3ulink.com:7899/mata66/123456/55458
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FX CINEMA HD
-
+http://m3ulink.com:7899/mata66/123456/55459
 #EXTINF:-1 tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="MOVIE",FOX LIFE HD
-
+http://m3ulink.com:7899/mata66/123456/55456
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",TVN HD
-
+http://m3ulink.com:7899/mata66/123456/55476
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="MOVIE",TVN MOVIES
-
+http://m3ulink.com:7899/mata66/123456/55477
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/WarnerTV.id.png" group-title="MOVIE",WARNER TV HD
-
+http://m3ulink.com:7899/mata66/123456/55478
 
 
 
