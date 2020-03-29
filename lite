@@ -31,7 +31,7 @@ http://tvku.live:8888/gocir/yes2020/929
 #EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="LOKAL", TRANS TV 
 http://tvku.live:8888/gocir/yes2020/929
 #EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="LOKAL", TV ONE
-http://tvku.live:8888/gocir/yes2020/
+http://tvku.live:8888/gocir/yes2020/3587
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV HD
 http://tvku.live:8888/gocir/yes2020/3589
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBghJqM.png" group-title="LOKAL", METRO TV 
@@ -413,6 +413,22 @@ http://tvku.live:8888/gocir/yes2020/1199
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="SPORTS",SETANTA 2
 http://tvku.live:8888/gocir/yes2020/2223
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="SPORTS",SUPER SPORT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",TVN MOVIE
+http://tvku.live:8888/gocir/yes2020/927
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",SONY ONE
+http://tvku.live:8888/gocir/yes2020/19
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",K DRAMA
+http://tvku.live:8888/gocir/yes2020/1699
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",K PLUS
+http://tvku.live:8888/gocir/yes2020/18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",KBS WORD
+http://tvku.live:8888/gocir/yes2020/15057
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",S GEM
+http://tvku.live:8888/gocir/yes2020/770
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KOREA TV",TVN ID
+http://tvku.live:8888/gocir/yes2020/767
+
 http://tvku.live:8888/gocir/yes2020/2899
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",DANGDUT
 http://tvku.live:8888/gocir/yes2020/883
