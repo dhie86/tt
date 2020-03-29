@@ -116,7 +116,7 @@ http://tvku.live:8888/gocir/yes2020/1859
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",CCM
 http://tvku.live:8888/gocir/yes2020/2118
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX MOVIES
-http://203.153.218.28:9981/stream/channelid/756717990.m3u
+http://tvku.live:8888/gocir/yes2020/1205
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX MOVIES FHD
 http://tvku.live:8888/gocir/yes2020/1205
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX ACTION MOVIES
@@ -134,11 +134,11 @@ http://tvku.live:8888/gocir/yes2020/95
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FX
 http://tvku.live:8888/gocir/yes2020/776
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HD
-http://203.153.218.28:9981/stream/channelid/1299824667.m3u
+http://tvku.live:8888/gocir/yes2020/210
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO FHD
 http://tvku.live:8888/gocir/yes2020/1496
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895.m3u
+http://tvku.live:8888/gocir/yes2020/591
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HITS FHD
 http://tvku.live:8888/gocir/yes2020/1492
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO FAMILY
